@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/s/Desktop/Development/xamarin/QueueMVVM/QueueMVVM/QueueMVVM.csproj": {}
+  },
+  "projects": {
+    "/Users/s/Desktop/Development/xamarin/QueueMVVM/QueueMVVM/QueueMVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/s/Desktop/Development/xamarin/QueueMVVM/QueueMVVM/QueueMVVM.csproj",
+        "projectName": "QueueMVVM",
+        "projectPath": "/Users/s/Desktop/Development/xamarin/QueueMVVM/QueueMVVM/QueueMVVM.csproj",
+        "packagesPath": "/Users/s/.nuget/packages/",
+        "outputPath": "/Users/s/Desktop/Development/xamarin/QueueMVVM/QueueMVVM/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/s/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

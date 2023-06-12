@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FDBD377B-CA4E-43C3-9AF5-9FCE74F0C874}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.ItemProperties.QueueMVVM PreferredExecutionTarget="Android.Nexus_5X_API_30_PlayStore" AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="AppTheme" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Nexus_5X_API_30_PlayStore" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueueMVVM/MainActivity.cs">
+    <Files>
+      <File FileName="QueueMVVM/MainActivity.cs" Line="70" Column="18" />
+      <File FileName="QueueMVVM/UserViewModel.cs" Line="18" Column="6" />
+      <File FileName="QueueMVVM/Resources/layout/content_main.xml" Line="19" Column="1" />
+      <File FileName="QueueMVVM/Resources/layout/activity_main.xml" Line="1" Column="1" />
+      <File FileName="QueueMVVM/User.cs" Line="8" Column="1" />
+      <File FileName="QueueMVVM/DialogHelper.cs" Line="11" Column="14" />
+      <File FileName="QueueMVVM/ApiService.cs" Line="20" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueueMVVM" expanded="True">
+            <Node name="QueueMVVM" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
